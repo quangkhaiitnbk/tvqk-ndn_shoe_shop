@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <banhanglist>
-<sanpham>
-	<maSp>4</maSp>
-	<tenSp>Converse</tenSp>
-	<ngayban>04/04/2024</ngayban>
-	<loaiSp>Converse</loaiSp>
-	<soluongban>2</soluongban>
-	<giaban>2100.0</giaban>
-	<gia>2000.0</gia>
-</sanpham>
 </banhanglist>
