@@ -1,5 +1,5 @@
 # Ứng dụng quản lý cửa hàng bán giày (TVQK&NDN SHOE SHOP)
-(https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)
+(THÊM LINK GITHUB VÀO ĐÂY)
 
 Ứng dụng giúp bạn quản lý việc nhập hàng/bán hàng của cửa hàng giày và dữ liệu được lưu trữ trong file xml (sanpham.xml và banhang.xml).
 
@@ -8,7 +8,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 - Nhập hàng;
 - Bán hàng;
 - Thống kê;
-- Tìm kiếm.
+- Tìm kiếm. Trong đó phần Tìm kiếm cần trả về cả hình ảnh giày dép.
 
 ## Mô tả ứng dụng
 ### 1. Tên ứng dụng:
@@ -27,6 +27,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 	+ Trường Loại sản phẩm: hiển thị một JComboBox để người dùng lựa chọn loại sản phẩm (hãng giày).
 	+ Trường Số lượng: có kiểu dữ liệu int, để nhập số lượng (số đôi giày) được nhập vào kho; không được để trống.
 	+ Trường Giá nhập: có kiểu dữ liệu double, để nhập giá nhập của sản phẩm (...nghìn/đôi giày); không được để trống.
+	+ Trường Ảnh minh họa: là một Jlable, có chức năng hiển thị ảnh khi người dùng chọn; có thể để trống.
 	* Các chức năng:
 	+ Nhập hàng (thêm sản phẩm vào kho hàng), sửa, xóa các sản phẩm trong kho hàng.
 	+ Sắp xếp theo các tiêu chí trực tiếp trên bảng thống kê (nhấn vào trực tiếp các tiêu đề trên bảng thống kê).
@@ -42,7 +43,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 	+ Bán hàng (thêm sản phẩm vào thống kê bán hàng, trừ đi số lượng đã bán khỏi kho hàng).
 	+ Sắp xếp theo các tiêu chí trực tiếp trên bảng thống kê (nhấn vào trực tiếp các tiêu đề trên bảng thống kê).
 	+ Làm mới: đưa các trường thông tin hiển thị về mặc định.
-	+ Tìm kiếm (trong kho hàng): gồm có tìm kiếm theo tên sản phẩm (tìm kiếm gần đúng), tìm kiếm theo giá (tìm kiếm theo khoảng, ví dụ: muốn tìm kiếm sản phẩm có giá tiền từ 100 nghìn đồng đến 200 nghìn đồng thì ta nhập 100-200 vào ô giá tiền)
+	+ Tìm kiếm (trong kho hàng): gồm có tìm kiếm theo tên sản phẩm (tìm kiếm gần đúng), tìm kiếm theo giá (tìm kiếm theo khoảng, ví dụ: muốn tìm kiếm sản phẩm có giá tiền từ 100 nghìn đồng đến 200 nghìn đồng thì ta nhập 100-200 vào ô giá tiền). Trong đó phần khi Tìm kiếm sẽ trả về các thông tin nhập hàng của sản phẩm kể cả hình ảnh minh họa.
 	+ Thống kê: tính tổng số sản phẩm đã bán được, doanh thu và lợi nhuận của cửa hàng.
 
 ### 4. Hướng dẫn sử dụng:
@@ -55,7 +56,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 - Để thoát khỏi chương trình, người dùng có thể click chuột vào button Thoát hoặc close [X].
 
 #### c. Tại màn hình Nhập hàng:
-- Người dùng nhập, sửa, xóa các thông tin của sản phẩm theo các trường Mã sản phẩm, Tên sản phẩm, Ngày nhập, Loại sản phẩm, Số lượng, Giá nhập.
+- Người dùng nhập, sửa, xóa các thông tin của sản phẩm theo các trường Mã sản phẩm, Tên sản phẩm, Ngày nhập, Loại sản phẩm, Số lượng, Giá nhập, Ảnh minh họa.
 - Để thao tác thêm / sửa / xóa được thực hiện thì người dùng click chuột vào các button tương ứng Nhập hàng, Sửa, Xóa tương ứng tùy theo mục đích.
 - Trong bảng kho hàng, người dùng có thể click chuột vào hàng chứa thông tin của sản phẩm để lấy và hiện thị theo các trường tương ứng trong mục Nhập hàng. Người dùng có thể tiếp tục thực hiện các thao tác với các sản phẩm.
 - Để đưa các trường thông tin hiển thị về mặc định, người dùng click chuột vào button Làm mới.
