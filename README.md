@@ -1,5 +1,5 @@
 # Ứng dụng quản lý cửa hàng bán giày (TVQK&NDN SHOE SHOP)
-(THÊM LINK GITHUB VÀO ĐÂY)
+[(https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)](https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)
 
 Ứng dụng giúp bạn quản lý việc nhập hàng/bán hàng của cửa hàng giày và dữ liệu được lưu trữ trong file xml (sanpham.xml và banhang.xml).
 
