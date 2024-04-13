@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<banhanglist>
+<sanpham>
+	<maSp>1</maSp>
+	<tenSp>jack</tenSp>
+	<ngayban>04/04/2024</ngayban>
+	<loaiSp>Sneaker</loaiSp>
+	<soluongban>2</soluongban>
+	<giaban>120.0</giaban>
+	<gia>100.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>4</maSp>
+	<tenSp>Converse</tenSp>
+	<ngayban>04/04/2024</ngayban>
+	<loaiSp>Converse</loaiSp>
+	<soluongban>2</soluongban>
+	<giaban>2100.0</giaban>
+	<gia>2000.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>2</maSp>
+	<tenSp>ngoc dz</tenSp>
+	<ngayban>23/09/2023</ngayban>
+	<loaiSp>đẹp trai</loaiSp>
+	<soluongban>4</soluongban>
+	<giaban>500.0</giaban>
+	<gia>250.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>2</maSp>
+	<tenSp>ngoc dz</tenSp>
+	<ngayban>8/09/2023</ngayban>
+	<loaiSp>đẹp trai</loaiSp>
+	<soluongban>4</soluongban>
+	<giaban>500.0</giaban>
+	<gia>250.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>2</maSp>
+	<tenSp>ngoc dz</tenSp>
+	<ngayban>23/09/2023</ngayban>
+	<loaiSp>đẹp trai</loaiSp>
+	<soluongban>4</soluongban>
+	<giaban>500.0</giaban>
+	<gia>250.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>4</maSp>
+	<tenSp>Converse</tenSp>
+	<ngayban>12/12/121</ngayban>
+	<loaiSp>Converse</loaiSp>
+	<soluongban>1</soluongban>
+	<giaban>2100.0</giaban>
+	<gia>2000.0</gia>
+</sanpham>
+
+</banhanglist>
