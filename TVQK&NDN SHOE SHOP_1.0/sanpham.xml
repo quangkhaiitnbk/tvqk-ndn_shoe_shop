@@ -8,37 +8,4 @@
 	<soluong>95</soluong>
 	<gia>2000.0</gia>
 </sanpham>
-<sanpham>
-	<maSp>1</maSp>
-	<tenSp>jack</tenSp>
-	<ngaynhap>02/03/2004</ngaynhap>
-	<loaiSp>Sneaker</loaiSp>
-	<soluong>3</soluong>
-	<gia>100.0</gia>
-</sanpham>
-<sanpham>
-	<maSp>khaijack</maSp>
-	<tenSp>Khai Jack</tenSp>
-	<ngaynhap>20/11/2004</ngaynhap>
-	<loaiSp>jack</loaiSp>
-	<soluong>9997</soluong>
-	<gia>50.0</gia>
-</sanpham>
-<sanpham>
-	<maSp>2</maSp>
-	<tenSp>ngoc dz</tenSp>
-	<ngaynhap>28/11/2004</ngaynhap>
-	<loaiSp>đẹp trai</loaiSp>
-	<soluong>16</soluong>
-	<gia>250.0</gia>
-</sanpham>
-<sanpham>
-	<maSp>3</maSp>
-	<tenSp>Ngọc đẹp trai số 1 vũ trụ</tenSp>
-	<ngaynhap>11/04/2024</ngaynhap>
-	<loaiSp>number 1</loaiSp>
-	<soluong>1</soluong>
-	<gia>100000.0</gia>
-</sanpham>
-
 </sanphamlist>
