@@ -1,7 +1,7 @@
 # Ứng dụng quản lý cửa hàng bán giày (TVQK&NDN SHOE SHOP)
-[(https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)](https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)
+(https://github.com/quangkhaiitnbk/tvqk-ndn_shoe_shop)
 
-Ứng dụng giúp bạn quản lý việc nhập hàng/bán hàng của cửa hàng giày và dữ liệu được lưu trữ trong file xml (sanpham.xml và banhang.xml).
+Ứng dụng giúp bạn quản lý việc nhập hàng/bán hàng của cửa hàng giày và dữ liệu được lưu trữ trong file xml (sanpham.xml và banhang.xml), ảnh sẽ được lưu ở thư mục pic.
 
 ## Bài Tập Giữa Phần:
 Phát triển ứng dụng Quản lý shop giày, yêu cầu: 
@@ -27,7 +27,7 @@ Phát triển ứng dụng Quản lý shop giày, yêu cầu:
 	+ Trường Loại sản phẩm: hiển thị một JComboBox để người dùng lựa chọn loại sản phẩm (hãng giày).
 	+ Trường Số lượng: có kiểu dữ liệu int, để nhập số lượng (số đôi giày) được nhập vào kho; không được để trống.
 	+ Trường Giá nhập: có kiểu dữ liệu double, để nhập giá nhập của sản phẩm (...nghìn/đôi giày); không được để trống.
-	+ Trường Ảnh minh họa: là một Jlable, có chức năng hiển thị ảnh khi người dùng chọn; có thể để trống.
+	+ Trường Ảnh minh họa: là một Jlable, có chức năng hiển thị ảnh khi người dùng chọn; không được để trống.
 	* Các chức năng:
 	+ Nhập hàng (thêm sản phẩm vào kho hàng), sửa, xóa các sản phẩm trong kho hàng.
 	+ Sắp xếp theo các tiêu chí trực tiếp trên bảng thống kê (nhấn vào trực tiếp các tiêu đề trên bảng thống kê).
