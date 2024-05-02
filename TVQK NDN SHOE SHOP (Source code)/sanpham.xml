@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sanphamlist>
+<sanpham>
+	<maSp>1</maSp>
+	<tenSp>ADIDAS PROPHERE GREY</tenSp>
+	<ngaynhap>20/03/2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>200</soluong>
+	<gia>2000.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>2</maSp>
+	<tenSp>AIR FORCE 1</tenSp>
+	<ngaynhap>25/10/2023</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>500</soluong>
+	<gia>1500.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>3</maSp>
+	<tenSp>AIR JORDAN 1 LOW SE CRAFT</tenSp>
+	<ngaynhap>03/01/2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>100</soluong>
+	<gia>900.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>4</maSp>
+	<tenSp>Chuck Taylor All Star Classic</tenSp>
+	<ngaynhap>17/02/2024</ngaynhap>
+	<loaiSp>Converse</loaiSp>
+	<soluong>150</soluong>
+	<gia>1200.0</gia>
+</sanpham>
+<sanpham>
+	<maSp>5</maSp>
+	<tenSp>EST GN391</tenSp>
+	<ngaynhap>21/11/2023</ngaynhap>
+	<loaiSp>Boot</loaiSp>
+	<soluong>480</soluong>
+	<gia>2300.0</gia>
+</sanpham>
+
+</sanphamlist>
