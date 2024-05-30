@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<sanphamlist>
+<sanpham>
+	<maSp>001</maSp>
+	<tenSp>ADIDAS PROPHERE GREY</tenSp>
+	<ngaynhap>Mon May 27 21:51:36 ICT 2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>200</soluong>
+	<gia>1500000</gia>
+</sanpham>
+<sanpham>
+	<maSp>002</maSp>
+	<tenSp>AIR FORCE 1</tenSp>
+	<ngaynhap>Sun May 26 00:00:00 ICT 2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>95</soluong>
+	<gia>1000000</gia>
+</sanpham>
+<sanpham>
+	<maSp>003</maSp>
+	<tenSp>AIR JORDAN 1 LOW SE CRAFT</tenSp>
+	<ngaynhap>Thu May 23 21:53:52 ICT 2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>90</soluong>
+	<gia>2000000</gia>
+</sanpham>
+<sanpham>
+	<maSp>004</maSp>
+	<tenSp>Chuck Taylor All Star Classic</tenSp>
+	<ngaynhap>Fri May 24 21:54:42 ICT 2024</ngaynhap>
+	<loaiSp>Converse</loaiSp>
+	<soluong>50</soluong>
+	<gia>1200000</gia>
+</sanpham>
+<sanpham>
+	<maSp>005</maSp>
+	<tenSp>NIKE AIR FORCE 1 WHITE PINK</tenSp>
+	<ngaynhap>Mon May 27 21:57:58 ICT 2024</ngaynhap>
+	<loaiSp>Sneaker</loaiSp>
+	<soluong>150</soluong>
+	<gia>500000</gia>
+</sanpham>
+
+</sanphamlist>
